@@ -1,5 +1,7 @@
 <h1>GitHub Profile Layout 🎨💻</h1>
-A simple and elegant profile layout inspired by GitHub's design aesthetics. This project showcases a minimalist user profile card, perfect for personal pages or web applications.
+<p>
+  A simple and elegant <strong>profile layout</strong> inspired by GitHub's design aesthetics. This project showcases a <strong>minimalist user profile card</strong>, perfect for personal pages or web applications.
+</p>
 <h2>✨ Features</h2>
 <ul>
   <li>
